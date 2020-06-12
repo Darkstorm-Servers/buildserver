@@ -12,6 +12,7 @@ To learn how to suggest addons, features, and bugs, please look at [how to contr
 
 ## Current Developers
 - Zafiro
+- Linkjay
 
 ## Retirees
 - Legendary
